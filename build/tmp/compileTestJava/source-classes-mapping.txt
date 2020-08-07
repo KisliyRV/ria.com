@@ -1,0 +1,2 @@
+rozetka/AddProductTests.java
+ rozetka.AddProductTests
